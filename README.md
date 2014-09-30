@@ -22,6 +22,8 @@ Features :
 * CORS
 * thumbnail even for URI dropped images (either canvas or server generated thumbnail)
 * css theme customization
+* Retina enabled
+* display previously uploaded images (already stored on a server)
 
 Should work on 
 
