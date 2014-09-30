@@ -1,0 +1,1 @@
+node_modules\.bin\watchify examples\entry\basic.js -t jadeify -o examples/static/basic.js

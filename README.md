@@ -1,6 +1,9 @@
 FileUploaderJS
 ==============
 
+Requires : 
+* works using commonJS (tested only on browserify)
+
 Features :
 
 * html5 File upload with progression
@@ -18,11 +21,12 @@ Features :
 * file extension filters option
 * CORS
 * thumbnail even for URI dropped images (either canvas or server generated thumbnail)
+* css theme customization
 
 Should work on 
 
 * latest chrome
 * latest firefox
 * android phones & tablets
-* iOS phones & tablets
+* iOS phones & tablets (working from iOS 7 and up (maybe 6), silent fail on iOS 5)
 * IE 9+
