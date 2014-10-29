@@ -24,6 +24,7 @@ Features :
 * css theme customization
 * Retina enabled
 * display previously uploaded images (already stored on a server)
+* allow multiple file upload with same path (drag image from browser to desktop, upload, repeat with another image of the same name)
 
 Should work on 
 
